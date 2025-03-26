@@ -89,7 +89,7 @@
   
   - Get user input for employee ID
   - If that employee is present,
-  - Add a new certification OCPL1 for that employee, the date certification is taken is March 10, 2023 (convert this date into the correct format)
+  - Add a new certification OCPL1 for that employee, the date certification is taken is March 10, 2023 (or 2023-03-10)
 </details>
 
 
@@ -98,7 +98,8 @@
     ✅ 6. Change project name
   </summary>
   
-  - Mayfield Inc project is taken over by Roundpoint Inc, so change all occurences of that project with the new name
+  - Mayfield Inc project is taken over by Roundpoint Inc, so change all occurrences of that project with the new name
+  - Hint: Check if the Mayfield Inc is in the projects list, then using index method find where it is in the list and delete it from that position and insert Roundpoint Inc at that index
 </details>
 
 
