@@ -37,7 +37,7 @@
     - "certifications" -> (dictionary)
       - (string) certification code -> (string) date taken YYYY-MM-DD format
 
-  Download employees.bin https://github.com/suchialex/CINS3002-CW09/blob/main/employees.bin
+  Download employees.bin https://github.com/suchialex/CINS3002-HW09/blob/main/employees.bin
 </details>
 
 ### In employee_ops() function, perform these operations
