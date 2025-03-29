@@ -117,7 +117,7 @@
     ✅ 11. Display Spring Valley Employees
   </summary>
   
-  - Print the name and salaries of all the employees who are working on the project Spring Valley.
+  - Print the name and salaries of all the employees who are working on the project Spring Valley. (case-insensitive search for Spring valley)
   - Choose a nice format and alignment so they are displayed in a tabular fashion. If name or salary not available, print `-`
 </details>
 
