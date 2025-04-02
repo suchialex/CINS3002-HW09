@@ -29,9 +29,10 @@
   </summary>
 
   - It is a complex dictionary with integral keys
-  - (int) -> (dictionary)
+  - (string) -> (dictionary)
     - "name" -> (string)
     - "dept" -> (string)
+    - "salary" -> (float) or (int)
     - "projects" -> (list of strings)
     - "titles" -> (set of strings)
     - "certifications" -> (dictionary)
